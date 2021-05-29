@@ -2,6 +2,12 @@
 
 利用 Node.js 和 Express 打造一個簡單的餐廳清單網頁。
 
+## 安裝套件
+
+- Express
+- Nodemon
+- Handlebars
+
 ## 基本功能
 
 (1)使用者可以在首頁看到餐廳清單和基本資料：
