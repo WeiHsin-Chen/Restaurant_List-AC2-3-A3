@@ -36,10 +36,6 @@ Install by npm
 ```
 $ npm install
 ```
-Seeds
-```
-$ npm run seed
-```
 Execute
 ```
 $ npm run dev
