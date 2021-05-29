@@ -4,9 +4,9 @@
 
 ## 安裝套件
 
-- Express
-- Nodemon
-- Handlebars
+- Node.js: 10.24.1
+- Express: 4.17.1
+- Express-Handlebars: 5.3.2
 
 ## 基本功能
 
@@ -27,3 +27,28 @@
 
 (3)使用者可以在首頁透過餐廳名稱或類別查詢餐廳。
 
+## Getting Started
+Clone respository to your local computer
+```
+$ git clone https://github.com/naluwan/restaurant_list.git
+```
+Install by npm
+```
+$ npm install
+```
+Seeds
+```
+$ npm run seed
+```
+Execute
+```
+$ npm run dev
+```
+Terminal show the message
+```
+Express is running on localhost:3000
+```
+Now you can browse the website on
+```
+http://localhost:3000
+```
